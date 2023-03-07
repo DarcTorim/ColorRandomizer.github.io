@@ -1,6 +1,5 @@
-<div aling="center">
-# https://darctorim.github.io/ColorRandomizer.github.io
-<h1>Генератор случайного кода цвета "JavaScript"</h1>
+<div align="center">https://darctorim.github.io/ColorRandomizer.github.io</div>
+<h1 align="center">Генератор случайного кода цвета "JavaScript"</h1>
 
 
 
