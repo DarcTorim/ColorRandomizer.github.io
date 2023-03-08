@@ -7,12 +7,6 @@
 
 ---
 
-https://user-images.githubusercontent.com/124584927/223451351-fa481361-9926-4c3c-a587-f5fdabe4f91a.mp4
-
-
-
-
----
 
 
 <div align="center">
